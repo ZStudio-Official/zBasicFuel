@@ -1,4 +1,4 @@
-# zFuel
+# z Basic Fuel
 A lightweight and a very basic script for managing vehicle fuel. Players can refuel or drain fuel with customizable commands. Includes player notifications, GitHub version checking, and startup messages in the console. Fully configurable and easy to set up for any server.
 
 ## Supported Frameworks
